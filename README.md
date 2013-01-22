@@ -7,7 +7,7 @@ It was tested with JPEG and PNG images.
 
 Usage sample
 ------------
-Syntax is: resizer/&lt;type&gt;/&lt;width&gt;/&lt;height&lt;/&lt;file&gt;
+Syntax is: resizer/&lt;type&gt;/&lt;width&gt;/&lt;height&gt;/&lt;file&gt;
 
 Where <type> could be c (crop) or r (resise)
 
