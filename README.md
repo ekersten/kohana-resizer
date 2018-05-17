@@ -11,6 +11,6 @@ Syntax is: resizer/&lt;type&gt;/&lt;width&gt;/&lt;height&gt;/&lt;file&gt;
 
 Where <type> could be c (crop) or r (resise)
 
-<img src="<?php echo Kohana::$base_url; ?>resizer/c/150/150/images/sample.jpg" />
+```<img src="<?php echo Kohana::$base_url; ?>resizer/c/150/150/images/sample.jpg" />```
 
 This would return a 150x150 px cropped JPEG.
